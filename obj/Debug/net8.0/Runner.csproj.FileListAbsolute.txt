@@ -1,0 +1,14 @@
+C:\Users\IlyaT\source\repos\Runner\bin\Debug\net8.0\Runner.exe
+C:\Users\IlyaT\source\repos\Runner\bin\Debug\net8.0\Runner.deps.json
+C:\Users\IlyaT\source\repos\Runner\bin\Debug\net8.0\Runner.runtimeconfig.json
+C:\Users\IlyaT\source\repos\Runner\bin\Debug\net8.0\Runner.dll
+C:\Users\IlyaT\source\repos\Runner\bin\Debug\net8.0\Runner.pdb
+C:\Users\IlyaT\source\repos\Runner\obj\Debug\net8.0\Runner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IlyaT\source\repos\Runner\obj\Debug\net8.0\Runner.AssemblyInfoInputs.cache
+C:\Users\IlyaT\source\repos\Runner\obj\Debug\net8.0\Runner.AssemblyInfo.cs
+C:\Users\IlyaT\source\repos\Runner\obj\Debug\net8.0\Runner.csproj.CoreCompileInputs.cache
+C:\Users\IlyaT\source\repos\Runner\obj\Debug\net8.0\Runner.dll
+C:\Users\IlyaT\source\repos\Runner\obj\Debug\net8.0\refint\Runner.dll
+C:\Users\IlyaT\source\repos\Runner\obj\Debug\net8.0\Runner.pdb
+C:\Users\IlyaT\source\repos\Runner\obj\Debug\net8.0\Runner.genruntimeconfig.cache
+C:\Users\IlyaT\source\repos\Runner\obj\Debug\net8.0\ref\Runner.dll
