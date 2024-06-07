@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\IlyaT\\source\\repos\\Runner\\Runner.csproj",
+      "projectUniqueName": "C:\\GitHub\\Runner\\Runner\\Runner.csproj",
       "projectName": "Runner",
-      "projectPath": "C:\\Users\\IlyaT\\source\\repos\\Runner\\Runner.csproj",
+      "projectPath": "C:\\GitHub\\Runner\\Runner\\Runner.csproj",
       "packagesPath": "C:\\Users\\IlyaT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\IlyaT\\source\\repos\\Runner\\obj\\",
+      "outputPath": "C:\\GitHub\\Runner\\Runner\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
