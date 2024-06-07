@@ -11,13 +11,13 @@
     private (Int32, Int32) MakeMove(Int32 num, Int32 currenPosX, Int32 currenPosY) {
       switch (num) {
         case -1:
-          currenPosY += num;
+          currenPosY += -1; // Шаг влево.
           break;
         case 0:
-          currenPosX += -1;
+          currenPosX += -1; // Шаг вперед.
           break;
         case 1:
-          currenPosY += num;
+          currenPosY += 1; // Шаг вправо.
           break;
         default:
           break;
