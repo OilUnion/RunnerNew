@@ -11,10 +11,10 @@
       this.map = new Int32[rows, cols];
     }
 
-    internal Field(Int32 rows, Int32 cols, Int32[,] field) {
-      this.rows = rows;
-      this.cols = cols;
-      this.map = field;
+    internal Field(Int32[,] map) {
+      this.rows = map.GetLength(0);
+      this.cols = map.GetLength(1);
+      this.map = map;
     }
 
     internal Field FillingFieldWithZeros() {
@@ -24,7 +24,7 @@
           map[i, j] = 0;
         }
       }
-      return new Field(this.rows, this.cols, map);
+      return new Field(map);
     }
 
     internal Field MarkingOfCompletedPathByPlayer(Player player) {
@@ -40,7 +40,7 @@
         }
         map[startPosX = currenPosX, startPosY = currenPosY] = 1;
       }
-      return new Field(this.rows, this.cols, map);
+      return new Field(map);
     }
 
 
